@@ -1,0 +1,21 @@
+{
+    "session_id": "4ff93ecc-17b9-45e0-9fc8-89d699900090",
+    "name": "what is the lyrics of the song",
+    "agent_type": "\ud83c\udf99\ufe0f Audio to Text",
+    "created_at": "2025-12-13T23:47:38.852815",
+    "updated_at": "2025-12-13T23:48:42.537313",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "what is the lyrics of the song"
+        },
+        {
+            "role": "assistant",
+            "content": "Cinnamon in my teeth from your kiss \nYou're touching me, all the pills \nLet you take violet, blue, green, red \nTo keep me at arm's length, don't work \nYou try to push me out, but I just find my way back in \nViolet, blue, green, red, to keep me out, I win \n\nThere's things I wanna say to you, but I'll just lay you live \nLike if you hold me without hurting me, you'll be the first to everything \nThere's things I wanna talk about \nYou're better not to give \nBut if you hold me with a ring \nWe be the first who ever did \n\nKerosene in my hands \nYou made me mad on fire again \nAll the pills that you take \nViolet, blue, green, red to keep me at harm's length \n\nThere's things I wanna say to you \nBut I'll just lay your lip \nLike if you hold me without hurting me \nYou'll be the first to ever get \n\nThere's things I wanna talk about \nBut better not to give \nBut if you hold me without hitting me \nYou be the first with your dear \nI not to give if you hold me without hitting me \nYou be the first with your dear \nBe the first to let my \n\nBut better not to give \nBut if you hold me without hitting me \nYou be the first with your dear \nI not to give if you hold me without hitting me \nYou be the first with your dear \nBe the first to let my day \n\nThere's things I wanna say to you \nBut I'll just let you live \nLike if you hold me without hurting me \nYou'll be the first to let my day \nThere's things I wanna talk about \nBut better not to give \nLike if you hold me without hurting me \nI'll be the first to ever dance"
+        }
+    ]
+}

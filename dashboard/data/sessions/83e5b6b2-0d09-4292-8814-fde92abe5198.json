@@ -1,0 +1,13 @@
+{
+    "session_id": "83e5b6b2-0d09-4292-8814-fde92abe5198",
+    "name": "New Session",
+    "agent_type": "\ud83d\udcc4 Ask Your PDF",
+    "created_at": "2025-12-13T20:08:00.538449",
+    "updated_at": "2025-12-13T20:08:00.538456",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        }
+    ]
+}

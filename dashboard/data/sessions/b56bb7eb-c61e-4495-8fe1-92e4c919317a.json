@@ -1,0 +1,13 @@
+{
+    "session_id": "b56bb7eb-c61e-4495-8fe1-92e4c919317a",
+    "name": "New Session",
+    "agent_type": "\ud83c\udfa5 Video Summarizer",
+    "created_at": "2025-12-13T20:38:20.996405",
+    "updated_at": "2025-12-13T20:38:20.996412",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        }
+    ]
+}

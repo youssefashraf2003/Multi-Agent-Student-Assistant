@@ -1,0 +1,21 @@
+{
+    "session_id": "1320afc9-b9e2-4f22-a4b1-533ee33bacc9",
+    "name": "what is this document about?",
+    "agent_type": "\ud83d\udcc4 Ask Your PDF",
+    "created_at": "2025-12-13T20:23:24.662784",
+    "updated_at": "2025-12-13T20:25:01.816592",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "what is this document about?"
+        },
+        {
+            "role": "assistant",
+            "content": "This document appears to be about information security, specifically discussing various types of threats to an organization's people, information, and systems, including forces of nature, human error, and other dangers. It seems to be an excerpt from a textbook on information security, titled \"Principles of Information Security\" by Michael E. Whitman and Herbert J. Mattord."
+        }
+    ]
+}

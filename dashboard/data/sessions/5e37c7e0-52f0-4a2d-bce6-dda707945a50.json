@@ -1,0 +1,29 @@
+{
+    "session_id": "5e37c7e0-52f0-4a2d-bce6-dda707945a50",
+    "name": "generate the lyrics of the son...",
+    "agent_type": "\ud83c\udf99\ufe0f Audio to Text",
+    "created_at": "2025-12-13T21:03:04.825193",
+    "updated_at": "2025-12-13T21:10:12.147193",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "generate the lyrics of the song"
+        },
+        {
+            "role": "assistant",
+            "content": "I want to live with a cinnamon girl \nI can be happy the rest of my life \nWith a singing girl \nA dreamer of pictures \nI run in the night \nYou see us together \nChasing the moonlight \nMy singing girl \n\nTen silver sacks is the bass with the bow \nThe drummer relaxes and wakes me through shows \nFor this super girl \nA dream of pictures \nI run in the night \nYou see us together \nChasing the moon \nLike my cinnamon girl"
+        },
+        {
+            "role": "user",
+            "content": "the full lyrics"
+        },
+        {
+            "role": "assistant",
+            "content": "I want to live with a cinnamon girl \nI can be happy the rest of my life \nWith a singing girl \nA dreamer of pictures \nI run in the night \nYou see us together \nChasing the moonlight \nMy singing girl \nTen silver sacks is the bass with the bow \nThe drummer relaxes and wakes me through shows \nFor this super girl \nA dream of pictures \nI run in the night \nYou see us together \nChasing the moon \nLike my cinnamon girl"
+        }
+    ]
+}

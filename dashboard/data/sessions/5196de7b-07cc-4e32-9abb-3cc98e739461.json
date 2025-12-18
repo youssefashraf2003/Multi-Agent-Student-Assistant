@@ -1,0 +1,13 @@
+{
+    "session_id": "5196de7b-07cc-4e32-9abb-3cc98e739461",
+    "name": "New Session",
+    "agent_type": "\ud83d\uddbc\ufe0f StudyScan",
+    "created_at": "2025-12-13T23:53:05.795986",
+    "updated_at": "2025-12-13T23:53:05.795994",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        }
+    ]
+}

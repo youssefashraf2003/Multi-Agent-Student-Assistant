@@ -1,0 +1,21 @@
+{
+    "session_id": "db299a00-fe2d-4dee-a6eb-883b0e64d559",
+    "name": "what is the pdf talking about",
+    "agent_type": "\ud83d\udcc4 Ask Your PDF",
+    "created_at": "2025-12-13T23:41:14.569608",
+    "updated_at": "2025-12-13T23:45:17.334409",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "what is the pdf talking about"
+        },
+        {
+            "role": "assistant",
+            "content": "The PDF is talking about a Naive Bayes Classifier, specifically how to use it to filter out spam messages from normal messages, using the example of a message that says \"Dear Friend\". It explains how to calculate the probability of a message being spam or normal based on the words it contains, and how to classify the message accordingly."
+        }
+    ]
+}

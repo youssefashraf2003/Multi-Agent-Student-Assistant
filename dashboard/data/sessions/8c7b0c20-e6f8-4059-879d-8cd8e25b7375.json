@@ -1,0 +1,13 @@
+{
+    "session_id": "8c7b0c20-e6f8-4059-879d-8cd8e25b7375",
+    "name": "New Session",
+    "agent_type": "\ud83d\udd0d Search the Web",
+    "created_at": "2025-12-13T21:02:56.571256",
+    "updated_at": "2025-12-13T21:02:56.571268",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        }
+    ]
+}

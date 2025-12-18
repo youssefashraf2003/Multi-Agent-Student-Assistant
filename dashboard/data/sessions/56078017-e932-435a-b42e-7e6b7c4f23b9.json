@@ -1,0 +1,13 @@
+{
+    "session_id": "56078017-e932-435a-b42e-7e6b7c4f23b9",
+    "name": "New Session",
+    "agent_type": "\ud83d\uddbc\ufe0f OCR Agent",
+    "created_at": "2025-12-13T19:19:15.918163",
+    "updated_at": "2025-12-13T19:19:15.918169",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Hi! How can I help you today?"
+        }
+    ]
+}
